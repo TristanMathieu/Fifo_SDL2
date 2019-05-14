@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1557831058 source:d:\users\admin\documents\projects_codeblocks\fifo_sdl_final\main.c
+	"file.h"
+
+1557830981 d:\users\admin\documents\projects_codeblocks\fifo_sdl_final\file.h
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<SDL2\SDL.h>
+	<SDL2\SDL_image.h>
+	<time.h>
+
+1557831581 source:d:\users\admin\documents\projects_codeblocks\fifo_sdl_final\file_function.c
+	"file.h"
+
